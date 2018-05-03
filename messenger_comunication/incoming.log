@@ -1,0 +1,229 @@
+nohup: ignoring input
+[2018.04.18 14:53:24.737] [LOG]   Facebook Messenger Webhook listening on port 5002
+nohup: ignoring input
+[2018.04.18 14:58:02.810] [LOG]   Facebook Messenger Webhook listening on port 5002
+[2018.04.18 14:58:28.641] [LOG]   GET webhook
+[2018.04.18 14:58:55.717] [LOG]   POST webhook
+[2018.04.18 14:58:55.717] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524063532382,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCok9Xli2UPzAZlub',
+     seq: 5157,
+     text: 'Hola' } }
+[2018.04.18 15:00:28.624] [LOG]   POST webhook
+[2018.04.18 15:00:28.625] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524063627735,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCoqx11i2UVnY5_5O',
+     seq: 5158,
+     text: 'Hola' } }
+[2018.04.18 15:01:08.452] [LOG]   POST webhook
+[2018.04.18 15:01:08.452] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524063667470,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCotNDli2UYBnCGKF',
+     seq: 5159,
+     text: 'Hola' } }
+[2018.04.18 15:02:56.583] [LOG]   POST webhook
+[2018.04.18 15:02:56.584] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524063774468,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCozvBFi2UejtG6jS',
+     seq: 5162,
+     text: 'Necesito china en providencia' } }
+[2018.04.18 15:06:53.843] [LOG]   POST webhook
+[2018.04.18 15:06:53.844] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524064013124,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCpCTRFi2UtG0NOEm',
+     seq: 5165,
+     text: 'Comida china providencia' } }
+[2018.04.18 15:16:40.150] [LOG]   POST webhook
+[2018.04.18 15:16:40.150] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524064599301,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCpmFBVi2VQ6yyxVv',
+     seq: 5168,
+     text: 'Hola buenos disas' } }
+[2018.04.18 15:16:52.842] [LOG]   POST webhook
+[2018.04.18 15:16:52.842] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524064611988,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCpm2lFi2VRsbUVNj',
+     seq: 5171,
+     text: 'Como te llamas?' } }
+[2018.04.18 15:17:06.700] [LOG]   POST webhook
+[2018.04.18 15:17:06.701] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524064625626,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCpnr2li2VSg4hcNw',
+     seq: 5174,
+     text: 'Estúpido' } }
+[2018.04.18 15:17:14.640] [LOG]   POST webhook
+[2018.04.18 15:17:14.641] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524064633445,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCpoKZVi2VTARBmJ1',
+     seq: 5177,
+     text: 'Estupido' } }
+[2018.04.18 15:17:26.888] [LOG]   POST webhook
+[2018.04.18 15:17:26.888] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524064645185,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCpo4QVi2VTnhZODQ',
+     seq: 5180,
+     text: 'Quiero comida china en providencia' } }
+[2018.04.18 15:45:38.246] [LOG]   POST webhook
+[2018.04.18 15:45:38.246] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524066337588,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCrQLNFi2W6_lQP1Q',
+     seq: 5183,
+     text: 'Comida china' } }
+[2018.04.18 15:45:41.317] [LOG]   POST webhook
+[2018.04.18 15:45:41.318] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524066340230,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCrQVhli2W7KXH5uX',
+     seq: 5186,
+     text: 'En providencia' } }
+[2018.04.18 15:54:21.008] [LOG]   POST webhook
+[2018.04.18 15:54:21.008] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524066858803,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCrv_M1i2XaxHoBp5',
+     seq: 5189,
+     text: 'Hola' } }
+[2018.04.18 15:54:40.260] [LOG]   POST webhook
+[2018.04.18 15:54:40.260] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524066879609,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCrxQeVi2XcC9KqmO',
+     seq: 5192,
+     text: 'Quiero comida china en providencia' } }
+[2018.04.18 16:05:31.652] [LOG]   POST webhook
+[2018.04.18 16:05:31.652] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524067530922,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCsZAqli2YDzE_Zi3',
+     seq: 5195,
+     text: 'Hola' } }
+[2018.04.18 16:05:39.803] [LOG]   POST webhook
+[2018.04.18 16:05:39.803] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524067539273,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCsZhSVi2YET4wCy1',
+     seq: 5198,
+     text: 'Comida china en providencia' } }
+[2018.04.18 16:06:36.533] [LOG]   POST webhook
+[2018.04.18 16:06:36.533] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524067592785,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCscyUVi2YHn5iMB1',
+     seq: 5201,
+     text: 'Hola' } }
+[2018.04.18 16:07:12.268] [LOG]   POST webhook
+[2018.04.18 16:07:12.268] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524067631737,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCsfKeVi2YJ-dgJMk',
+     seq: 5204,
+     text: 'Comida china' } }
+[2018.04.18 16:08:01.873] [LOG]   POST webhook
+[2018.04.18 16:08:01.873] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524067680179,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCsiHs1i2YM86KVD3',
+     seq: 5207,
+     text: 'Providencia' } }
+[2018.04.18 16:11:07.859] [LOG]   POST webhook
+[2018.04.18 16:11:07.859] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524067864227,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCstWo1i2YYKxhVEw',
+     seq: 5210,
+     text: 'Hola' } }
+[2018.04.18 16:11:08.269] [LOG]   POST webhook
+[2018.04.18 16:11:08.270] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524067865887,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCstdH1i2YYRThcv5',
+     seq: 5211,
+     text: 'Hola' } }
+[2018.04.18 16:15:13.383] [LOG]   POST webhook
+[2018.04.18 16:15:13.383] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524068112429,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCs8gLVi2YnUqGpBB',
+     seq: 5215,
+     text: 'Hola' } }
+[2018.04.18 16:15:15.209] [LOG]   POST webhook
+[2018.04.18 16:15:15.209] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524068113635,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCs8k41i2YnZcdTPf',
+     seq: 5216,
+     text: 'Hola' } }
+[2018.04.18 16:28:00.933] [LOG]   POST webhook
+[2018.04.18 16:28:00.933] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524068879329,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCtrT4Vi2ZVG-_lks',
+     seq: 5221,
+     text: 'Hola' } }
+[2018.04.18 16:28:03.361] [LOG]   POST webhook
+[2018.04.18 16:28:03.361] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524068879704,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCtrVWFi2ZVKiIJFg',
+     seq: 5222,
+     text: 'Hola' } }
+[2018.04.18 16:28:16.165] [LOG]   POST webhook
+[2018.04.18 16:28:16.166] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524068894529,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCtsPQVi2ZXC0HeK2',
+     seq: 5227,
+     text: 'Quiero comida china' } }
+[2018.04.18 16:28:21.986] [LOG]   POST webhook
+[2018.04.18 16:28:21.986] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524068901399,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppCtsqF1i2ZXeKSrJ_',
+     seq: 5230,
+     text: 'Providencia' } }
+[2018.04.19 00:10:16.884] [LOG]   POST webhook
+[2018.04.19 00:10:16.884] [LOG]   { sender: { id: '1642516899188592' },
+  recipient: { id: '1026885967466522' },
+  timestamp: 1524096607915,
+  message: 
+   { mid: 'mid.$cAAP_BrTyILppDIHuq1i2zymCDmIg',
+     seq: 5233,
+     text: 'Hola' } }

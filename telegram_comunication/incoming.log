@@ -1,0 +1,26 @@
+nohup: ignoring input
+[2018.04.18 14:52:54.542] [LOG]   Trying to set Telegram webhook...
+[2018.04.18 14:52:54.545] [LOG]   no such file or directory, open: ./cfg/telegram-webhook
+[2018.04.18 14:53:04.820] [LOG]   Error status code while /setWebhook
+nohup: ignoring input
+[2018.04.18 14:57:52.784] [LOG]   Trying to set Telegram webhook...
+[2018.04.18 14:57:52.787] [LOG]   no such file or directory, open: ./cfg/telegram-webhook
+[2018.04.18 14:57:53.161] [LOG]   Error status code while /setWebhook
+nohup: ignoring input
+[2018.04.18 15:02:22.847] [LOG]   Trying to set Telegram webhook...
+[2018.04.18 15:02:22.850] [LOG]   Set Telegram webhook:  https://yellow-ladybug-47.localtunnel.me
+[2018.04.18 15:02:23.267] [LOG]   Method /setWebhook completed
+[2018.04.18 15:02:23.274] [LOG]   Telegram Webhook listening on port 5000
+[2018.04.18 15:02:24.524] [LOG]   POST webhook
+[2018.04.18 15:02:42.005] [LOG]   POST webhook
+[2018.04.18 15:43:56.704] [LOG]   POST webhook
+[2018.04.18 15:44:02.347] [LOG]   POST webhook
+[2018.04.18 15:44:05.195] [LOG]   POST webhook
+[2018.04.18 15:44:10.357] [LOG]   POST webhook
+[2018.04.18 15:44:13.416] [LOG]   POST webhook
+[2018.04.18 15:45:24.729] [LOG]   POST webhook
+[2018.04.18 15:55:03.784] [LOG]   POST webhook
+[2018.04.18 15:55:14.025] [LOG]   POST webhook
+[2018.04.18 16:28:34.200] [LOG]   POST webhook
+[2018.04.18 16:28:40.997] [LOG]   POST webhook
+[2018.04.18 16:28:43.916] [LOG]   POST webhook

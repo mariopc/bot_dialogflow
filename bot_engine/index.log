@@ -1,0 +1,323 @@
+nohup: ignoring input
+/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451
+  this._zmq.bindSync(addr);
+            ^
+
+Error: Address already in use
+    at Error (native)
+    at Socket.bindSync (/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451:13)
+    at out_ports.forEach (/home/ec2-user/bot_engine/index.js:17:14)
+    at Array.forEach (native)
+    at Object.<anonymous> (/home/ec2-user/bot_engine/index.js:15:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+nohup: ignoring input
+/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451
+  this._zmq.bindSync(addr);
+            ^
+
+Error: Address already in use
+    at Error (native)
+    at Socket.bindSync (/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451:13)
+    at out_ports.forEach (/home/ec2-user/bot_engine/index.js:17:14)
+    at Array.forEach (native)
+    at Object.<anonymous> (/home/ec2-user/bot_engine/index.js:15:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+nohup: ignoring input
+Error to bind port: 3001
+Error: Address already in use
+    at Error (native)
+    at Socket.bindSync (/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451:13)
+    at out_ports.forEach.err (/home/ec2-user/bot_engine/index.js:18:18)
+    at Array.forEach (native)
+    at Object.<anonymous> (/home/ec2-user/bot_engine/index.js:15:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+Error to bind port: 3101
+Error: Address already in use
+    at Error (native)
+    at Socket.bindSync (/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451:13)
+    at out_ports.forEach.err (/home/ec2-user/bot_engine/index.js:18:18)
+    at Array.forEach (native)
+    at Object.<anonymous> (/home/ec2-user/bot_engine/index.js:15:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+Error to bind port: 3201
+Error: Address already in use
+    at Error (native)
+    at Socket.bindSync (/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451:13)
+    at out_ports.forEach.err (/home/ec2-user/bot_engine/index.js:18:18)
+    at Array.forEach (native)
+    at Object.<anonymous> (/home/ec2-user/bot_engine/index.js:15:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+Worker connected to incoming port: 3000
+Worker connected to incoming port: 3100
+Worker connected to incoming port: 3200
+nohup: ignoring input
+Worker connected to outgoing port: 3001
+Worker connected to outgoing port: 3101
+Worker connected to outgoing port: 3201
+Worker connected to incoming port: 3000
+Worker connected to incoming port: 3100
+Worker connected to incoming port: 3200
+SessionID: 533cff70-4319-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1}
+Message from DialogFlow
+SessionID: 80954630-4319-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1}
+Message from DialogFlow
+SessionID: 8b011ef0-4319-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"quiero comida china en providencia","action":"","actionIncomplete":false,"parameters":{"TipoComida":"China","Comuna":"Providencia"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes..."}]},"score":1}
+options: { uri: 'https://maps.googleapis.com/maps/api/place/textsearch/json?',
+  method: 'GET',
+  json: true,
+  qs: 
+   { query: 'China+Providencia+Chile',
+     type: 'restaurant',
+     key: 'AIzaSyDAkJ9LCT093LkAUNKHcANtLpOLdEr9HnQ' } }
+SessionID: 93b05390-4319-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Necesito china en providencia","action":"","actionIncomplete":false,"parameters":{"TipoComida":"China","Comuna":"Providencia"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes..."}]},"score":1}
+options: { uri: 'https://maps.googleapis.com/maps/api/place/textsearch/json?',
+  method: 'GET',
+  json: true,
+  qs: 
+   { query: 'China+Providencia+Chile',
+     type: 'restaurant',
+     key: 'AIzaSyDAkJ9LCT093LkAUNKHcANtLpOLdEr9HnQ' } }
+SessionID: 211b5450-431a-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Comida china providencia","action":"","actionIncomplete":false,"parameters":{"TipoComida":"China","Comuna":"Providencia"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes..."}]},"score":1}
+options: { uri: 'https://maps.googleapis.com/maps/api/place/textsearch/json?',
+  method: 'GET',
+  json: true,
+  qs: 
+   { query: 'China+Providencia+Chile',
+     type: 'restaurant',
+     key: 'AIzaSyDAkJ9LCT093LkAUNKHcANtLpOLdEr9HnQ' } }
+SessionID: 7e92ad80-431b-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Hola buenos disas","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1}
+Message from DialogFlow
+SessionID: 862379d0-431b-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Como te llamas?","action":"input.welcome","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"e5b07193-71aa-4376-ae98-fd11db3eb33a","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Default Welcome Intent"},"fulfillment":{"speech":"¡Hey!","messages":[{"type":0,"speech":"¡Buenos días!"}]},"score":0.5400000214576721}
+Message from DialogFlow
+SessionID: 8e6609f0-431b-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Estúpido","action":"input.unknown","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"da064afa-25fc-4818-91d8-77286d21819e","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Default Fallback Intent"},"fulfillment":{"speech":"¿Podrías repetirlo, por favor?","messages":[{"type":0,"speech":"¿Disculpa?"}]},"score":1}
+Message from DialogFlow
+SessionID: 9321e450-431b-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Estupido","action":"input.unknown","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"da064afa-25fc-4818-91d8-77286d21819e","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Default Fallback Intent"},"fulfillment":{"speech":"¿Cómo?","messages":[{"type":0,"speech":"Ups, no he entendido a que te refieres."}]},"score":1}
+Message from DialogFlow
+SessionID: 9a6e54a0-431b-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Quiero comida china en providencia","action":"","actionIncomplete":false,"parameters":{"TipoComida":"China","Comuna":"Providencia"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes..."}]},"score":1}
+options: { uri: 'https://maps.googleapis.com/maps/api/place/textsearch/json?',
+  method: 'GET',
+  json: true,
+  qs: 
+   { query: 'China+Providencia+Chile',
+     type: 'restaurant',
+     key: 'AIzaSyDAkJ9LCT093LkAUNKHcANtLpOLdEr9HnQ' } }
+SessionID: 4e092730-431f-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1}
+Message from DialogFlow
+SessionID: 51660dd0-431f-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Necesito comida china","action":"","actionIncomplete":true,"parameters":{"TipoComida":"China","Comuna":""},"contexts":[{"name":"searchfood_dialog_params_comuna","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":1},{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":2},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿En que comuna desea buscar su Comida China?","messages":[{"type":0,"speech":"¿En que comuna desea buscar su Comida China?"}]},"score":0.949999988079071}
+Message from DialogFlow
+SessionID: 531878c0-431f-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Providencia","action":"","actionIncomplete":true,"parameters":{"TipoComida":"","Comuna":"Providencia"},"contexts":[{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":2},{"name":"searchfood_dialog_params_tipocomida","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":1},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿Que tipo de comida deseas buscar?","messages":[{"type":0,"speech":"¿Que tipo de comida deseas buscar?"}]},"score":1}
+Message from DialogFlow
+SessionID: 562c6f80-431f-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"China","action":"","actionIncomplete":true,"parameters":{"TipoComida":"China","Comuna":""},"contexts":[{"name":"searchfood_dialog_params_comuna","parameters":{"Comuna.original":"","TipoComida.original":"China","Comuna":"","TipoComida":"China"},"lifespan":1},{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"China","Comuna":"","TipoComida":"China"},"lifespan":2},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"China","Comuna":"","TipoComida":"China"},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿En que comuna desea buscar su Comida China?","messages":[{"type":0,"speech":"¿En que comuna desea buscar su Comida China?"}]},"score":1}
+Message from DialogFlow
+SessionID: 57fee590-431f-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Providencia","action":"","actionIncomplete":true,"parameters":{"TipoComida":"","Comuna":"Providencia"},"contexts":[{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":2},{"name":"searchfood_dialog_params_tipocomida","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":1},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿Que tipo de comida deseas buscar?","messages":[{"type":0,"speech":"¿Que tipo de comida deseas buscar?"}]},"score":1}
+Message from DialogFlow
+SessionID: 82808cb0-431f-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Comida china en providencia","action":"","actionIncomplete":false,"parameters":{"TipoComida":"China","Comuna":"Providencia"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes..."}]},"score":1}
+options: { uri: 'https://maps.googleapis.com/maps/api/place/textsearch/json?',
+  method: 'GET',
+  json: true,
+  qs: 
+   { query: 'China+Providencia+Chile',
+     type: 'restaurant',
+     key: 'AIzaSyDAkJ9LCT093LkAUNKHcANtLpOLdEr9HnQ' } }
+SessionID: 8a8f1480-431f-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Comida china","action":"","actionIncomplete":true,"parameters":{"TipoComida":"China","Comuna":""},"contexts":[{"name":"searchfood_dialog_params_comuna","parameters":{"Comuna.original":"","TipoComida.original":"Comida china","Comuna":"","TipoComida":"China"},"lifespan":1},{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"Comida china","Comuna":"","TipoComida":"China"},"lifespan":2},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"Comida china","Comuna":"","TipoComida":"China"},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿En que comuna desea buscar su Comida China?","messages":[{"type":0,"speech":"¿En que comuna desea buscar su Comida China?"}]},"score":1}
+Message from DialogFlow
+SessionID: 8c63d480-431f-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"En providencia","action":"","actionIncomplete":true,"parameters":{"TipoComida":"","Comuna":"Providencia"},"contexts":[{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":2},{"name":"searchfood_dialog_params_tipocomida","parameters":{"Comuna.original":"providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":1},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿Que tipo de comida deseas buscar?","messages":[{"type":0,"speech":"¿Que tipo de comida deseas buscar?"}]},"score":1}
+Message from DialogFlow
+SessionID: c2263b20-4320-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1}
+Message from DialogFlow
+SessionID: cd9fda60-4320-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Quiero comida china en providencia","action":"","actionIncomplete":false,"parameters":{"TipoComida":"China","Comuna":"Providencia"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes..."}]},"score":1}
+options: { uri: 'https://maps.googleapis.com/maps/api/place/textsearch/json?',
+  method: 'GET',
+  json: true,
+  qs: 
+   { query: 'China+Providencia+Chile',
+     type: 'restaurant',
+     key: 'AIzaSyDAkJ9LCT093LkAUNKHcANtLpOLdEr9HnQ' } }
+SessionID: dba554a0-4320-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Hols","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1}
+Message from DialogFlow
+SessionID: e1bfd4a0-4320-11e8-b96d-29052a504b85
+{"source":"agent","resolvedQuery":"Comida thai en providencia","action":"","actionIncomplete":false,"parameters":{"TipoComida":"Thai","Comuna":"Providencia"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida Thai en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida Thai en Providencia, espere unos instantes..."}]},"score":1}
+options: { uri: 'https://maps.googleapis.com/maps/api/place/textsearch/json?',
+  method: 'GET',
+  json: true,
+  qs: 
+   { query: 'Thai+Providencia+Chile',
+     type: 'restaurant',
+     key: 'AIzaSyDAkJ9LCT093LkAUNKHcANtLpOLdEr9HnQ' } }
+nohup: ignoring input
+Worker connected to outgoing port: 3001
+Worker connected to outgoing port: 3101
+Worker connected to outgoing port: 3201
+Worker connected to incoming port: 3000
+Worker connected to incoming port: 3100
+Worker connected to incoming port: 3200
+SessionID: 51e28970-4322-11e8-9897-070c6db17d81
+Message from DialogFlow
+SessionID: 56be20d0-4322-11e8-9897-070c6db17d81
+options: { uri: 'https://maps.googleapis.com/maps/api/place/textsearch/json?',
+  method: 'GET',
+  json: true,
+  qs: 
+   { query: 'China+Providencia+Chile',
+     type: 'restaurant',
+     key: 'AIzaSyDAkJ9LCT093LkAUNKHcANtLpOLdEr9HnQ' } }
+nohup: ignoring input
+Worker connected to outgoing port: 3001
+Worker connected to outgoing port: 3101
+Worker connected to outgoing port: 3201
+Worker connected to incoming port: 3000
+Worker connected to incoming port: 3100
+Worker connected to incoming port: 3200
+SessionID: 788e9780-4322-11e8-92a4-5174e8c63199
+{"id":"0666b250-e5ce-4b31-8ac3-abe10d021645","timestamp":"2018-04-18T16:06:36.612Z","lang":"es","result":{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"788e9780-4322-11e8-92a4-5174e8c63199"}
+Message from DialogFlow
+SessionID: 8ddb2ae0-4322-11e8-92a4-5174e8c63199
+{"id":"c9fe0d50-83c6-4eca-aa8c-42a21d9cd7ce","timestamp":"2018-04-18T16:07:12.306Z","lang":"es","result":{"source":"agent","resolvedQuery":"Comida china","action":"","actionIncomplete":true,"parameters":{"TipoComida":"China","Comuna":""},"contexts":[{"name":"searchfood_dialog_params_comuna","parameters":{"Comuna.original":"","TipoComida.original":"Comida china","Comuna":"","TipoComida":"China"},"lifespan":1},{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"Comida china","Comuna":"","TipoComida":"China"},"lifespan":2},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"Comida china","Comuna":"","TipoComida":"China"},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿En que comuna desea buscar su Comida China?","messages":[{"type":0,"speech":"¿En que comuna desea buscar su Comida China?"}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"8ddb2ae0-4322-11e8-92a4-5174e8c63199"}
+Message from DialogFlow
+SessionID: ab6c4a30-4322-11e8-92a4-5174e8c63199
+{"id":"23e7c08c-e81a-4780-bb51-3093e7732fca","timestamp":"2018-04-18T16:08:02.008Z","lang":"es","result":{"source":"agent","resolvedQuery":"Providencia","action":"","actionIncomplete":true,"parameters":{"TipoComida":"","Comuna":"Providencia"},"contexts":[{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":2},{"name":"searchfood_dialog_params_tipocomida","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":1},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"Providencia","TipoComida.original":"","Comuna":"Providencia","TipoComida":""},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿Que tipo de comida deseas buscar?","messages":[{"type":0,"speech":"¿Que tipo de comida deseas buscar?"}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"ab6c4a30-4322-11e8-92a4-5174e8c63199"}
+Message from DialogFlow
+nohup: ignoring input
+Worker connected to outgoing port: 3001
+Worker connected to outgoing port: 3101
+Worker connected to outgoing port: 3201
+Worker connected to incoming port: 3000
+Worker connected to incoming port: 3100
+Worker connected to incoming port: 3200
+1642516899188592
+SessionID: 1a47a760-4323-11e8-9a65-bdf1fff8c1f6
+{"id":"ec123342-cf15-4007-9860-c37af07621cf","timestamp":"2018-04-18T16:11:08.007Z","lang":"es","result":{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"1a47a760-4323-11e8-9a65-bdf1fff8c1f6"}
+Message from DialogFlow
+1642516899188592
+SessionID: 1a863700-4323-11e8-9a65-bdf1fff8c1f6
+{"id":"064de0e8-cea4-4af3-8adc-870371ca8f8c","timestamp":"2018-04-18T16:11:08.304Z","lang":"es","result":{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"1a863700-4323-11e8-9a65-bdf1fff8c1f6"}
+Message from DialogFlow
+nohup: ignoring input
+Worker connected to outgoing port: 3001
+Worker connected to outgoing port: 3101
+Worker connected to outgoing port: 3201
+Worker connected to incoming port: 3000
+Worker connected to incoming port: 3100
+Worker connected to incoming port: 3200
+1642516899188592
+SessionID: 9dadb01c-9c48-4586-91cc-82626314e703
+{"id":"9d5c929b-48b1-40a0-8764-6f91518d4b57","timestamp":"2018-04-18T16:15:13.523Z","lang":"es","result":{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"9dadb01c-9c48-4586-91cc-82626314e703"}
+Message from DialogFlow
+1642516899188592
+SessionID: dc443633-debc-4ead-a84b-5904c52b691d
+{"id":"7ce0a481-d5aa-495c-ac14-ed79d5573fb3","timestamp":"2018-04-18T16:15:15.252Z","lang":"es","result":{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"dc443633-debc-4ead-a84b-5904c52b691d"}
+Message from DialogFlow
+nohup: ignoring input
+Error to bind port: 3001
+Error: Address already in use
+    at Error (native)
+    at Socket.bindSync (/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451:13)
+    at out_ports.forEach.err (/home/ec2-user/bot_engine/index.js:19:18)
+    at Array.forEach (native)
+    at Object.<anonymous> (/home/ec2-user/bot_engine/index.js:16:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+Error to bind port: 3101
+Error: Address already in use
+    at Error (native)
+    at Socket.bindSync (/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451:13)
+    at out_ports.forEach.err (/home/ec2-user/bot_engine/index.js:19:18)
+    at Array.forEach (native)
+    at Object.<anonymous> (/home/ec2-user/bot_engine/index.js:16:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+Error to bind port: 3201
+Error: Address already in use
+    at Error (native)
+    at Socket.bindSync (/home/ec2-user/bot_engine/node_modules/zeromq/lib/index.js:451:13)
+    at out_ports.forEach.err (/home/ec2-user/bot_engine/index.js:19:18)
+    at Array.forEach (native)
+    at Object.<anonymous> (/home/ec2-user/bot_engine/index.js:16:11)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+Worker connected to incoming port: 3000
+Worker connected to incoming port: 3100
+Worker connected to incoming port: 3200
+nohup: ignoring input
+Worker connected to outgoing port: 3001
+Worker connected to outgoing port: 3101
+Worker connected to outgoing port: 3201
+Worker connected to incoming port: 3000
+Worker connected to incoming port: 3100
+Worker connected to incoming port: 3200
+1642516899188592
+SessionID: d5fd82f3-c370-4832-8ab0-4df178ed6873
+{"id":"bd719a52-9cb6-4200-b239-5b4eb55c73f8","timestamp":"2018-04-18T16:28:01.123Z","lang":"es","result":{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"1642516899188592"}
+Message from DialogFlow
+1642516899188592
+SessionID: 89257e90-337d-4d5a-955f-9ef166d4af55
+{"id":"c4299397-65a9-4a8e-b192-02e5bebd9b3e","timestamp":"2018-04-18T16:28:03.4Z","lang":"es","result":{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"1642516899188592"}
+Message from DialogFlow
+1642516899188592
+SessionID: 4174ce11-3ab8-4514-a423-b775844c6de2
+{"id":"32f56d1f-d858-4ed5-98d8-84607204ee7d","timestamp":"2018-04-18T16:28:16.202Z","lang":"es","result":{"source":"agent","resolvedQuery":"Quiero comida china","action":"","actionIncomplete":true,"parameters":{"TipoComida":"China","Comuna":""},"contexts":[{"name":"searchfood_dialog_params_comuna","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":1},{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":2},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿En que comuna desea buscar su Comida China?","messages":[{"type":0,"speech":"¿En que comuna desea buscar su Comida China?"}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"1642516899188592"}
+Message from DialogFlow
+1642516899188592
+SessionID: 7207158c-2cc9-48f3-b077-5ed6751881e7
+{"id":"b1d8a426-3bfa-4d92-8005-34b6e8282658","timestamp":"2018-04-18T16:28:22.057Z","lang":"es","result":{"source":"agent","resolvedQuery":"Providencia","action":"","actionIncomplete":false,"parameters":{"Comuna":"Providencia","TipoComida":"China"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes..."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"1642516899188592"}
+584985220
+SessionID: e15aa6b0-aca3-4e07-831d-e27152d2bdf0
+{"id":"65050b5e-fc3c-4d64-835f-9c7019c88e9c","timestamp":"2018-04-18T16:28:34.232Z","lang":"es","result":{"source":"agent","resolvedQuery":"Hola","action":"","actionIncomplete":false,"parameters":{},"contexts":[],"metadata":{"intentId":"195056df-93e9-4dcf-bc0a-7c68cbcc3ba2","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"Saludo"},"fulfillment":{"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.","messages":[{"type":0,"speech":"Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"584985220"}
+Message from DialogFlow
+584985220
+SessionID: 4abcc381-5469-4753-b015-00c640757cab
+{"id":"98422b52-3a83-4a36-81c7-655d510970aa","timestamp":"2018-04-18T16:28:41.039Z","lang":"es","result":{"source":"agent","resolvedQuery":"Quiero comida china","action":"","actionIncomplete":true,"parameters":{"TipoComida":"China","Comuna":""},"contexts":[{"name":"searchfood_dialog_params_comuna","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":1},{"name":"searchfood_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":2},{"name":"796d81cd-8511-4bea-9999-2adcfa378324_id_dialog_context","parameters":{"Comuna.original":"","TipoComida.original":"comida china","Comuna":"","TipoComida":"China"},"lifespan":2}],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"¿En que comuna desea buscar su Comida China?","messages":[{"type":0,"speech":"¿En que comuna desea buscar su Comida China?"}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"584985220"}
+Message from DialogFlow
+584985220
+SessionID: f4379b30-b3db-4a00-8893-0847fef5a4a5
+{"id":"f11e267f-639e-4f30-b07a-5564e39a3d61","timestamp":"2018-04-18T16:28:43.946Z","lang":"es","result":{"source":"agent","resolvedQuery":"Providencia","action":"","actionIncomplete":false,"parameters":{"Comuna":"Providencia","TipoComida":"China"},"contexts":[],"metadata":{"intentId":"796d81cd-8511-4bea-9999-2adcfa378324","webhookUsed":"false","webhookForSlotFillingUsed":"false","intentName":"SearchFood"},"fulfillment":{"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes...","messages":[{"type":0,"speech":"Procesando su búsqueda de Comida China en Providencia, espere unos instantes..."}]},"score":1},"status":{"code":200,"errorType":"success","webhookTimedOut":false},"sessionId":"584985220"}

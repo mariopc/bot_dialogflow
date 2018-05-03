@@ -1,0 +1,19 @@
+{
+  "name": "telegram_comunication",
+  "version": "1.0.0",
+  "description": "Program to receive and transmit messages from telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Peña",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "circular-json": "^0.5.3",
+    "console-stamp": "^0.2.6",
+    "express": "^4.16.3",
+    "request": "^2.85.0",
+    "zeromq": "^4.6.0"
+  }
+}

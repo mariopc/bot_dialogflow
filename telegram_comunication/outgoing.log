@@ -1,0 +1,39 @@
+nohup: ignoring input
+[2018.04.18 14:53:06.124] [LOG]   Ready to receive messages in the port: 3001
+[2018.04.18 14:53:06.127] [LOG]   Telegram sender message process is ready
+nohup: ignoring input
+[2018.04.18 14:57:57.612] [LOG]   Ready to receive messages in the port: 3001
+[2018.04.18 14:57:57.615] [LOG]   Telegram sender message process is ready
+[2018.04.18 15:02:25.196] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:02:43.566] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:02:43.576] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:02:43.599] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:02:43.622] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:02:43.642] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:02:43.660] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:43:57.316] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:44:02.883] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:44:05.703] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:44:10.877] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:44:13.927] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:45:26.405] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:45:26.419] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:45:26.440] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:45:26.464] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:45:26.488] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:45:26.503] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:55:04.303] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:55:15.436] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:55:15.455] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:55:15.476] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:55:15.494] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:55:15.525] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:55:15.549] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:34.725] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:41.519] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:44.508] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:44.527] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:44.542] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:44.562] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:44.577] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:44.598] [LOG]   Method /sendMessage succeeded

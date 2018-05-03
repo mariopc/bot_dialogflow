@@ -1,0 +1,90 @@
+nohup: ignoring input
+[2018.04.18 14:53:28.864] [LOG]   Ready to receive messages in the port: 3201
+[2018.04.18 14:53:28.868] [LOG]   Facebook Messenger sender message process is ready
+nohup: ignoring input
+[2018.04.18 14:58:05.550] [LOG]   Ready to receive messages in the port: 3201
+[2018.04.18 14:58:05.553] [LOG]   Facebook Messenger sender message process is ready
+[2018.04.18 15:01:08.567] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 15:01:08.766] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:02:56.807] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  messaging_type: 'RESPONSE',
+  message: { attachment: { type: 'template', payload: [Object] } } }
+[2018.04.18 15:02:57.476] [LOG]   Method /sendMessage succeeded
+nohup: ignoring input
+[2018.04.18 15:06:43.336] [LOG]   Ready to receive messages in the port: 3201
+[2018.04.18 15:06:43.339] [LOG]   Facebook Messenger sender message process is ready
+[2018.04.18 15:06:54.814] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  messaging_type: 'RESPONSE',
+  message: { attachment: { type: 'template', payload: [Object] } } }
+[2018.04.18 15:06:55.347] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:16:40.513] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 15:16:40.735] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:16:52.893] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: '¡Hey!' } }
+[2018.04.18 15:16:53.043] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:17:06.924] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: '¿Podrías repetirlo, por favor?' } }
+[2018.04.18 15:17:07.170] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:17:14.696] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: '¿Cómo?' } }
+[2018.04.18 15:17:14.838] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:17:27.634] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  messaging_type: 'RESPONSE',
+  message: { attachment: { type: 'template', payload: [Object] } } }
+[2018.04.18 15:17:28.089] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:45:38.291] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: '¿En que comuna desea buscar su Comida China?' } }
+[2018.04.18 15:45:38.392] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:45:41.366] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: '¿Que tipo de comida deseas buscar?' } }
+[2018.04.18 15:45:41.470] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:54:21.068] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 15:54:21.849] [LOG]   Method /sendMessage succeeded
+[2018.04.18 15:54:41.179] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  messaging_type: 'RESPONSE',
+  message: { attachment: { type: 'template', payload: [Object] } } }
+[2018.04.18 15:54:41.546] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:05:31.838] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 16:05:32.441] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:05:40.601] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  messaging_type: 'RESPONSE',
+  message: { attachment: { type: 'template', payload: [Object] } } }
+[2018.04.18 16:05:40.993] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:06:36.633] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 16:06:36.714] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:07:12.321] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: '¿En que comuna desea buscar su Comida China?' } }
+[2018.04.18 16:07:12.468] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:08:02.023] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: '¿Que tipo de comida deseas buscar?' } }
+[2018.04.18 16:08:02.118] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:11:08.027] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 16:11:08.156] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:11:08.319] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 16:11:08.433] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:15:13.544] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 16:15:13.664] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:15:15.267] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 16:15:15.366] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:01.144] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 16:28:01.243] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:03.416] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: 'Hola, mi nombre es Gloton, te puedo ayudar a encontrar variados y atractivos lugares para comer, solo dime el tipo de comida y el lugar donde quieres buscar.' } }
+[2018.04.18 16:28:03.534] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:16.218] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  message: { text: '¿En que comuna desea buscar su Comida China?' } }
+[2018.04.18 16:28:16.325] [LOG]   Method /sendMessage succeeded
+[2018.04.18 16:28:22.764] [LOG]   MSG: { recipient: { id: '1642516899188592' },
+  messaging_type: 'RESPONSE',
+  message: { attachment: { type: 'template', payload: [Object] } } }
+[2018.04.18 16:28:23.279] [LOG]   Method /sendMessage succeeded
